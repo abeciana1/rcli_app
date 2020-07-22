@@ -7,8 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["alex.beciana@gmail.com"]
 
   spec.summary       = %q{A gem to help you get started quickly with your own Ruby command-line application.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/abeciana1/rcli_app"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
