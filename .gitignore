@@ -1,0 +1,27 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+.DS_Store
+.idea
+
+log
+node_modules
+out
+tmp
+
+*.iml
+*.log
+*.swp
+
+db/*.db
+
+*.env
+
+*.gem
+# Ignore application configuration
