@@ -5,15 +5,13 @@ require_relative 'lib/rcli_app/version'
 Gem::Specification.new do |spec|
   spec.name          = "rcli_app"
   spec.version       = RcliApp::VERSION
-  spec.authors       = ["Alex"]
+  spec.authors       = ["Alex Beciana"]
   spec.email         = ["alex.beciana@gmail.com"]
 
   spec.summary       = %q{A gem to help you get started quickly with your own Ruby command-line application.}
   spec.homepage      = "https://github.com/abeciana1/rcli_app"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
-
-  # spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
 
