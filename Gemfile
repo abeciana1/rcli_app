@@ -13,3 +13,4 @@ gem "faker"
 gem 'tty-prompt'
 gem "colorize"
 gem "dotenv"
+gem "rcli_app"
