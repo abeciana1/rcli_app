@@ -1,6 +1,6 @@
 # RcliApp
 
-
+A gem to help you get started quickly with your own Ruby command-line application.
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+After installation, you can start building your domain models and creating your application.
 
 ## Development
 
