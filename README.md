@@ -19,6 +19,8 @@ Then, run:
 
 ## Usage
 
+This gem focuses on helping beginner Rubyists get started with creating their own command-line applications.
+
 After installation, you can start building your domain models and creating your application.
 
 ## Development
@@ -27,7 +29,7 @@ After checking out the repo, run `bin/setup` to install dependencies. You can al
 
 ## Getting Started
 
-This gem focuses on helping beginner Rubyists get started with creating their own command-line applications. Please create your domain model files in `lib`.
+Please create your domain model files in `lib`.
 
 If you're interested in working with an API, the `dotenv` gem is in `Gemfile` and will get installed via the last step of the installation instructions. You will need to create a `.env` file to hide your API key as well.
 

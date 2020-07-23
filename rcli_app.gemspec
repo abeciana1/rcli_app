@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Alex Beciana"]
   spec.email         = ["alex.beciana@gmail.com"]
 
-  spec.summary       = %q{A gem to help you get started quickly with your own Ruby command-line application.}
+  spec.summary       = %q{A gem to help beginner Rubyists get started quickly with their own Ruby command-line application. Please read the README on https://github.com/abeciana1/rcli_app}
   spec.homepage      = "https://github.com/abeciana1/rcli_app"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
