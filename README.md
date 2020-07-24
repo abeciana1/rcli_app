@@ -29,9 +29,25 @@ After checking out the repo, run `bin/setup` to install dependencies. You can al
 
 ## Getting Started
 
-Please create your domain model files in `lib`.
+Please create your domain model files in `lib`. You can delete the `rcli_app` folder as well as the `rcli_app.rb` file under lib. I added `cli.rb` on there.
+
+Additionally, run the app via `bin/run.rb` which will run the `CLI.hello` method.
 
 If you're interested in working with an API, the `dotenv` gem is in `Gemfile` and will get installed via the last step of the installation instructions. You will need to create a `.env` file to hide your API key as well.
+
+## Gems
+
+* gem "rake", "~> 13.0.1"
+* gem "activerecord", '~> 5.2'
+* gem "sinatra-activerecord"
+* gem "sqlite3", '~> 1.3.6'
+* gem "pry"
+* gem "require_all"
+* gem "faker"
+* gem 'tty-prompt'
+* gem "colorize"
+* gem "dotenv"
+
 
 ## Contributing
 
