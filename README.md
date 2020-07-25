@@ -29,7 +29,7 @@ After checking out the repo, run `bin/setup` to install dependencies. You can al
 
 ## Getting Started
 
-Please create your domain model files in `lib`. You can delete the `rcli_app` folder as well as the `rcli_app.rb` file under lib. I added `cli.rb` on there.
+Please create your domain model files in `lib`. Do not delete the `rcli_app` folder as well as the `rcli_app.rb` file under lib. I added a file called `cli.rb` in `lib` as well.
 
 Additionally, run the app via `bin/run.rb` which will run the `CLI.hello` method.
 
