@@ -1,4 +1,5 @@
 # RcliApp
+[![Gem Version](https://badge.fury.io/rb/rcli_app.svg)](https://badge.fury.io/rb/rcli_app)
 
 A gem to help you get started quickly with your own Ruby command-line application.
 
